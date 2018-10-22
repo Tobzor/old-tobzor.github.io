@@ -1,4 +1,5 @@
-const publicurl = process.env.PUBLIC_URL;
+let publicurl = process.env.PUBLIC_URL;
+publicurl = ".";
 export const projects = [{
     "title": "Organisation Unit Manager",
     "subtitle": "AngularJS",

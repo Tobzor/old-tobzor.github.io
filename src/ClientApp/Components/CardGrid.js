@@ -9,6 +9,7 @@ class CardGrid extends Component {
                 {projects.map((project, index) => {
                     return (
                         <Card key={index} style={{ maxWidth: "300px", maxHeight: "385px", margin: "1rem" }}>
+                            console.log(project.card_img);
                             <CardMedia style={{ height: "200px" }} image={project.card_img || "http://placehold.it/350x200"} title="Project Image" />
                             <CardContent>
                                 <Typography gutterBottom variant="h5" component="h2" >
