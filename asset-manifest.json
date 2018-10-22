@@ -1,6 +1,10 @@
 {
   "main.css": "static/css/main.aea2a815.css",
   "main.css.map": "static/css/main.aea2a815.css.map",
-  "main.js": "static/js/main.ecc374a6.js",
-  "main.js.map": "static/js/main.ecc374a6.js.map"
+  "main.js": "static/js/main.480844ed.js",
+  "main.js.map": "static/js/main.480844ed.js.map",
+  "static/media/libgdxgame.png": "static/media/libgdxgame.2b6ded74.png",
+  "static/media/orgmanager.jpg": "static/media/orgmanager.6e729363.jpg",
+  "static/media/photoviewer.png": "static/media/photoviewer.4a2e3773.png",
+  "static/media/projecthandsy.png": "static/media/projecthandsy.a6016d27.png"
 }
