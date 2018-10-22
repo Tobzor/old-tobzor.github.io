@@ -1,10 +1,11 @@
 import React, { Component } from "react";
-import { Typography, Grid, Button } from "@material-ui/core";
+import profile from "../../assets/profile_img.png";
 
 class Header extends Component {
     render() {
         return (
-            <div>
+            <div className="header">
+                <img src={profile} alt="profile" className="profile-image" />
             </div>
         );
     }
