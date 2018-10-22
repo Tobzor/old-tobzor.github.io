@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.d1cb61c2.js",
-  "main.js.map": "static/js/main.d1cb61c2.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.b3dd7d88.css",
+  "main.css.map": "static/css/main.b3dd7d88.css.map",
+  "main.js": "static/js/main.1fb6d5a3.js",
+  "main.js.map": "static/js/main.1fb6d5a3.js.map",
+  "static/media/header.JPG": "static/media/header.6dfd1148.JPG",
+  "static/media/libgdxgame.png": "static/media/libgdxgame.2b6ded74.png",
+  "static/media/orgmanager.jpg": "static/media/orgmanager.6e729363.jpg",
+  "static/media/photoviewer.png": "static/media/photoviewer.4a2e3773.png",
+  "static/media/profile_img.png": "static/media/profile_img.df3c5901.png",
+  "static/media/projecthandsy.png": "static/media/projecthandsy.a6016d27.png"
 }
