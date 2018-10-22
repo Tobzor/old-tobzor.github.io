@@ -9,7 +9,7 @@ const rootEl = document.getElementById("root");
 ReactDOM.render(<App />, rootEl);
 // registerServiceWorker();
 
-if (module.hot) {
+/*if (module.hot) {
     module.hot.accept('./App', () => {
         const NextApp = require('./App').default
         ReactDOM.render(
@@ -17,4 +17,4 @@ if (module.hot) {
             rootEl
         )
     })
-}
+}*/
